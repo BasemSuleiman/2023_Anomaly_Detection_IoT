@@ -1,5 +1,5 @@
-Hi, we are 
-
-Our previous work "FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments". The paper has been accepted and presented at the EAI MobiQuitous 2022, where you can find out the paper, source code, slide and presentation in the folder "2022"
+Hi, Our previous work "FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments". The paper has been accepted and presented at the EAI MobiQuitous 2022, where you can find out the paper, source code, slide and presentation in the folder "2022"
 
 "Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach" is the extending study of our previous work. Where you can find all the information in the folder "2023"
+
+In the previous research, we found that FedGroup achieved a better anomaly detection accuracy compared to other federated and non-federated learning methods. Our research is of particular interest to topics of attack type detection and attack type detail detection problem, which we extend the study and comprise an important segment of this journal. Furthermore, we believe that the findings match the aims and scope of your journal because they conclude and update an idea in Federated Learning and Ensemble Learning, which plays an important role in anomaly detection. Moreover, we believe that our proposed FedGroup model will help scholars to explore this model to other areas.
