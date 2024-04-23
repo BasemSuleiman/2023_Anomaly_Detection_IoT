@@ -2,7 +2,7 @@ Hi,
 
 The research papers must be cited if any of the provided materials are used in any form.
 
-Our previous work "FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments". The paper has been accepted and presented at the EAI MobiQuitous 2022, where you can find the paper, source code, slide, and presentation in the folder "2022"
+Our previous work "FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments". The paper has been accepted and presented at the EAI MobiQuitous 2022, where you can find the paper, source code in the folder "2022"
 
 Cite this paper
 Zhang, Y., Suleiman, B., Alibasa, M.J. (2023). FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments. In: Longfei, S., Bodhi, P. (eds) Mobile and Ubiquitous Systems: Computing, Networking and Services. MobiQuitous 2022. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 492. Springer, Cham. https://doi.org/10.1007/978-3-031-34776-4_7
