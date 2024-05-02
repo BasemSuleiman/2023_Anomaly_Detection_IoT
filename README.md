@@ -3,7 +3,16 @@ Hi,
 The research papers must be cited if any of the provided materials are used in any form.
 
 
-# Our previous work "FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments". The paper has been accepted and presented at the EAI MobiQuitous 2022, where you can find the paper, source code in the folder "2022"
+# FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments
+Our previous work "FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments". The paper has been accepted and presented at the EAI MobiQuitous 2022, where you can find the paper, source code in the folder "2022"
+
+### Original Data
+Our dataset was obtained from the UNSW IoT analytics team, which we cited properly in the paper.
+Link to the original data: https://iotanalytics.unsw.edu.au/attack-data.html
+Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets.
+
+### Processed
+Our processed data can be found in this GitHub repo "2022" - FL_attack_or_not.ipynb
 
 ### Cite this paper
 Zhang, Y., Suleiman, B., Alibasa, M.J. (2023). FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments. In: Longfei, S., Bodhi, P. (eds) Mobile and Ubiquitous Systems: Computing, Networking and Services. MobiQuitous 2022. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 492. Springer, Cham. https://doi.org/10.1007/978-3-031-34776-4_7
@@ -14,17 +23,11 @@ Zhang, Y., Suleiman, B., Alibasa, M.J. (2023). FedGroup: A Federated Learning Ap
 ### Rights and permissions
 https://s100.copyright.com/AppDispatchServlet?publisherName=SpringerNature&orderBeanReset=true&orderSource=SpringerLink&title=FedGroup%3A%20A%20Federated%20Learning%20Approach%20for%C2%A0Anomaly%20Detection%20in%C2%A0IoT%20Environments&author=Yixuan%20Zhang%2C%20Basem%20Suleiman%2C%20Muhammad%20Johan%20Alibasa&contentID=10.1007%2F978-3-031-34776-4_7&copyright=The%20Author%28s%29%2C%20under%20exclusive%20license%20to%20Springer%20Nature%20Switzerland%20AG&publication=eBook&publicationDate=2023&startPage=121&endPage=132&imprint=The%20Author%28s%29%2C%20under%20exclusive%20license%20to%20Springer%20Nature%20Switzerland%20AG
 
-## Data
-### Original Data
-Our dataset was obtained from the UNSW IoT analytics team, which we cited properly in the paper.
-Link to the original data: https://iotanalytics.unsw.edu.au/attack-data.html
-Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets.
-
-### Processed
-Our processed data can be found in this GitHub repo "2022" - FL_attack_or_not.ipynb
 
 
-# "Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach" is the extended study of our previous work. Where you can find all the information in the folder "2023"
+# Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach
+
+"Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach" is the extended study of our previous work. Where you can find all the information in the folder "2023"
 
 ### Cite this paper
 Zhang, Y., Suleiman, B., Alibasa, M.J. et al. Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach. J Netw Syst Manage 32, 20 (2024). https://doi.org/10.1007/s10922-023-09782-9
