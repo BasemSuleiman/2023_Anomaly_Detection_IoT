@@ -15,7 +15,11 @@ Copyright information
 Rights and permissions
 https://s100.copyright.com/AppDispatchServlet?publisherName=SpringerNature&orderBeanReset=true&orderSource=SpringerLink&title=FedGroup%3A%20A%20Federated%20Learning%20Approach%20for%C2%A0Anomaly%20Detection%20in%C2%A0IoT%20Environments&author=Yixuan%20Zhang%2C%20Basem%20Suleiman%2C%20Muhammad%20Johan%20Alibasa&contentID=10.1007%2F978-3-031-34776-4_7&copyright=The%20Author%28s%29%2C%20under%20exclusive%20license%20to%20Springer%20Nature%20Switzerland%20AG&publication=eBook&publicationDate=2023&startPage=121&endPage=132&imprint=The%20Author%28s%29%2C%20under%20exclusive%20license%20to%20Springer%20Nature%20Switzerland%20AG
 
+Our dataset was obtained from the UNSW IoT analytics team can be found:
+https://iotanalytics.unsw.edu.au/attack-data.html
+Under Instructions, "Flow Data" and "Annotations" are two folders of original datasets.
 
+Our processed data can be found in this GitHub repo "2022" - 
 
 "Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach" is the extended study of our previous work. Where you can find all the information in the folder "2023"
 =====================================================
