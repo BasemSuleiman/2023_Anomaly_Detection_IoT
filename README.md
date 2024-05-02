@@ -11,7 +11,9 @@ Our dataset was obtained from the UNSW IoT analytics team, which we cited proper
 Link to the original data: https://iotanalytics.unsw.edu.au/attack-data.html
 Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets.
 
-### Processed
+Cite the data: Hamza, A., Habibi Gharakheili, H., Benson, T. A., and Sivaraman, V. , “ Detecting Volumetric Attacks on LoT Devices via SDN-Based Monitoring of MUD Activity ” , Proc. ACM SOSR, San Jose, CA, USA, Apr, 2019. DOI: 10.1145/3314148.3314352
+
+### Processed Data
 Our processed data can be found in this GitHub repo "2022" - FL_attack_or_not.ipynb
 
 ### Cite this paper
@@ -28,6 +30,16 @@ https://s100.copyright.com/AppDispatchServlet?publisherName=SpringerNature&order
 # Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach
 
 "Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach" is the extended study of our previous work. Where you can find all the information in the folder "2023"
+
+### Original Data
+Our dataset was obtained from the UNSW IoT analytics team, which we cited properly in the paper.
+Link to the original data: https://iotanalytics.unsw.edu.au/attack-data.html
+Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets.
+
+Cite the data: Hamza, A., Habibi Gharakheili, H., Benson, T. A., and Sivaraman, V. , “ Detecting Volumetric Attacks on LoT Devices via SDN-Based Monitoring of MUD Activity ” , Proc. ACM SOSR, San Jose, CA, USA, Apr, 2019. DOI: 10.1145/3314148.3314352
+
+### Processed Data
+Our processed data can be found in this GitHub repo "2023" - 
 
 ### Cite this paper
 Zhang, Y., Suleiman, B., Alibasa, M.J. et al. Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach. J Netw Syst Manage 32, 20 (2024). https://doi.org/10.1007/s10922-023-09782-9
