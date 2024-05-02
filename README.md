@@ -7,9 +7,8 @@ The research papers must be cited if any of the provided materials are used in a
 Our previous work "FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments". The paper has been accepted and presented at the EAI MobiQuitous 2022, where you can find the paper, source code in the folder "2022"
 
 ### Original Data
-Our dataset was obtained from the UNSW IoT analytics team, which we cited properly in the paper.
-Link to the original data: https://iotanalytics.unsw.edu.au/attack-data.html
-Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets.
+Our dataset was obtained from the UNSW IoT analytics team, and we cited the data properly in the paper. 
+Link to the original data: https://iotanalytics.unsw.edu.au/attack-data.html. Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets. 
 
 Cite the data: Hamza, A., Habibi Gharakheili, H., Benson, T. A., and Sivaraman, V. , “ Detecting Volumetric Attacks on LoT Devices via SDN-Based Monitoring of MUD Activity ” , Proc. ACM SOSR, San Jose, CA, USA, Apr, 2019. DOI: 10.1145/3314148.3314352
 
@@ -32,10 +31,9 @@ https://s100.copyright.com/AppDispatchServlet?publisherName=SpringerNature&order
 "Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach" is the extended study of our previous work. Where you can find all the information in the folder "2023"
 
 ### Original Data
-Our dataset was obtained from the UNSW IoT analytics team, which we cited properly in the paper.
-Link to the original data: https://iotanalytics.unsw.edu.au/attack-data.html
-Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets.
-And "here" link also including the information about the device and the attacker.
+Our dataset was obtained from the UNSW IoT analytics team, and we cited the data properly in the paper. 
+Link to the original data: https://iotanalytics.unsw.edu.au/attack-data.html. Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets. 
+The "here" link also includes information about the device and the attacker.
 
 Cite the data: Hamza, A., Habibi Gharakheili, H., Benson, T. A., and Sivaraman, V. , “ Detecting Volumetric Attacks on LoT Devices via SDN-Based Monitoring of MUD Activity ” , Proc. ACM SOSR, San Jose, CA, USA, Apr, 2019. DOI: 10.1145/3314148.3314352
 
