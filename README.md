@@ -9,7 +9,7 @@ Our previous work "FedGroup: A Federated Learning Approach for Anomaly Detection
 ### Original Data
 Our dataset was obtained from the UNSW IoT analytics team, which we cited properly in the paper.
 Link to the original data: https://iotanalytics.unsw.edu.au/attack-data.html
-Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets.
+Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets. And "here" link also including the information about the device and the attacker.
 
 Cite the data: Hamza, A., Habibi Gharakheili, H., Benson, T. A., and Sivaraman, V. , “ Detecting Volumetric Attacks on LoT Devices via SDN-Based Monitoring of MUD Activity ” , Proc. ACM SOSR, San Jose, CA, USA, Apr, 2019. DOI: 10.1145/3314148.3314352
 
@@ -39,7 +39,8 @@ Under "Instructions", "Flow Data" and "Annotations" are two folders of original 
 Cite the data: Hamza, A., Habibi Gharakheili, H., Benson, T. A., and Sivaraman, V. , “ Detecting Volumetric Attacks on LoT Devices via SDN-Based Monitoring of MUD Activity ” , Proc. ACM SOSR, San Jose, CA, USA, Apr, 2019. DOI: 10.1145/3314148.3314352
 
 ### Processed Data
-Our processed data can be found in this GitHub repo "2023" - 
+Our processed data can be found in this GitHub repo "2023" - attack_type.ipynb and [update]FL.ipynb
+
 
 ### Cite this paper
 Zhang, Y., Suleiman, B., Alibasa, M.J. et al. Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach. J Netw Syst Manage 32, 20 (2024). https://doi.org/10.1007/s10922-023-09782-9
