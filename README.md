@@ -9,6 +9,8 @@ Our previous work "FedGroup: A Federated Learning Approach for Anomaly Detection
 ### Original Data
 Our dataset was obtained from the UNSW IoT analytics team, and we cited the data properly in the paper. 
 Link to the original data: https://iotanalytics.unsw.edu.au/attack-data.html. Under "Instructions", "Flow Data" and "Annotations" are two folders of original datasets. 
+"Flow data" contains flow counters of MUD flow, each instance in the file are collected every one minute.
+"Annotations" contains information about the start, end time of the attack and corresponsing MUD flows that are impacted through the Attack.
 
 Cite the data: Hamza, A., Habibi Gharakheili, H., Benson, T. A., and Sivaraman, V. , “ Detecting Volumetric Attacks on LoT Devices via SDN-Based Monitoring of MUD Activity ” , Proc. ACM SOSR, San Jose, CA, USA, Apr, 2019. DOI: 10.1145/3314148.3314352
 
