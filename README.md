@@ -2,7 +2,7 @@ Hi,
 
 The research papers must be cited if any of the provided materials are used in any form.
 
-=====================================================
+
 Our previous work "FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments". The paper has been accepted and presented at the EAI MobiQuitous 2022, where you can find the paper, source code in the folder "2022"
 =====================================================
 
@@ -16,7 +16,7 @@ Rights and permissions
 https://s100.copyright.com/AppDispatchServlet?publisherName=SpringerNature&orderBeanReset=true&orderSource=SpringerLink&title=FedGroup%3A%20A%20Federated%20Learning%20Approach%20for%C2%A0Anomaly%20Detection%20in%C2%A0IoT%20Environments&author=Yixuan%20Zhang%2C%20Basem%20Suleiman%2C%20Muhammad%20Johan%20Alibasa&contentID=10.1007%2F978-3-031-34776-4_7&copyright=The%20Author%28s%29%2C%20under%20exclusive%20license%20to%20Springer%20Nature%20Switzerland%20AG&publication=eBook&publicationDate=2023&startPage=121&endPage=132&imprint=The%20Author%28s%29%2C%20under%20exclusive%20license%20to%20Springer%20Nature%20Switzerland%20AG
 
 
-======================================================
+
 "Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach" is the extended study of our previous work. Where you can find all the information in the folder "2023"
 =====================================================
 Cite this paper
