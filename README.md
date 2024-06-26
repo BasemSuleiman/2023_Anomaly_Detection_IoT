@@ -1,7 +1,7 @@
 
 Hello and welcome this project repository!
 
-In this research work we introduce our Federated Learning approach, FedGroup, for Anomaly Detection in IoT Environments. The details of this research project are shared for further development and improvements in releated research areas. The work can be re-used and extended under the specified license (). The work is split into two main projects each of which is published as per the below details.  
+In this research work we introduce our Federated Learning approach, FedGroup, for Anomaly Detection in IoT Environments. The details of this research project are shared for further development and improvements in releated research areas. The work can be re-used and extended under the specified license (AGPL3.0). The work is split into two main projects each of which is published as per the below details.  
 
 # Project 1: FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments
 
