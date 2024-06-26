@@ -1,4 +1,4 @@
-# ************************ Project 1 ***********************************
+# *************** Project 1 *************************
 # FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments
 
 Hello and welcome this project repository!
