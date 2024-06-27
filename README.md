@@ -3,7 +3,7 @@ Hello and welcome this project repository!
 
 In this research work we introduce our Federated Learning approach, FedGroup, for Anomaly Detection in IoT Environments. The details of this research project are shared for further development and improvements in releated research areas. The work can be re-used and extended under the specified license (AGPL3.0). The work is split into two main projects each of which is published as per the below details.  
 
-# Project 1: FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments
+## Project 1: FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments
 
 Our first project work named "FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments". The work in this paper has been published at the EAI MobiQuitous 2022, where you can find the paper, source code in the folder "2022"
 
@@ -14,7 +14,8 @@ We have pre-processed the UNSW IoT Analytics dataset for the context of our rese
 #### Zhang, Y., Suleiman, B., Alibasa, M.J. FedGroup: A Federated Learning Approach for Anomaly Detection in IoT Environments. Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2022). Springer, Cham. https://doi.org/10.1007/978-3-031-34776-4_7
 
 
-# Project 2: Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach
+---------------------------------------------------------------------------------
+## Project 2: Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach
 
 "Privacy-Aware Anomaly Detection in IoT Environments using FedGroup: A Group-Based Federated Learning Approach" is the extended study of our project 1 work. All project releated information can be found in the folder "2023"
 
